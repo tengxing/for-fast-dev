@@ -2,16 +2,16 @@
 好用的工具
 
 ## 后台UI
-1 layUI
+- layUI
 http://www.layui.com/demo/
 
-2  element
+-  element
 http://element-cn.eleme.io/#/zh-CN/component/installation
 
-3  H+ 
+-  H+ 
 http://www.zi-han.net/theme/hplus/
 
-4 EasyUI
+- EasyUI
 http://www.jeasyui.net/
 
 ## 
