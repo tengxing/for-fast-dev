@@ -37,5 +37,7 @@ https://github.com/d3/d3
 http://echarts.baidu.com/
 - highCharts
 http://www.hcharts.cn/
+- sigma.js
+https://github.com/jacomyal/sigma.js
 
 
