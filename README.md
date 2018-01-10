@@ -46,6 +46,7 @@ https://threejs.org/
 Superset
 https://github.com/apache/incubator-superset
 Redash
+https://github.com/getredash/redash
 Metabase
 https://github.com/metabase/metabase
 
