@@ -43,13 +43,13 @@ https://github.com/jacomyal/sigma.js
 https://threejs.org/
 
 ## 数据分析
-Superset
+- Superset
 https://github.com/apache/incubator-superset
 
-Redash
+- Redash
 https://github.com/getredash/redash
 
-Metabase
+- Metabase
 https://github.com/metabase/metabase
 
 
