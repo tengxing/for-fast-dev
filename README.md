@@ -4,6 +4,8 @@
 ## java权限框架
 - shiro
 https://github.com/apache/shiro
+- spring security
+https://github.com/spring-projects/spring-security
 
 ## 后台UI
 - layUI
