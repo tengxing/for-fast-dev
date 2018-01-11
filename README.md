@@ -1,6 +1,10 @@
 # xteng
 好用的工具
 
+## java权限框架
+- shiro
+https://github.com/apache/shiro
+
 ## 后台UI
 - layUI
 http://www.layui.com/demo/
