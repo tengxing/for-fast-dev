@@ -58,4 +58,8 @@ https://github.com/getredash/redash
 - Metabase
 https://github.com/metabase/metabase
 
+## 模拟api
+- it120
+https://www.it120.cc/apis
+
 
