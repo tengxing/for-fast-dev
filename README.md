@@ -70,15 +70,15 @@ https://github.com/WordPress/WordPress
 
 ## 词云工具
 - wordle
-wordle.net/
+http://wordle.net/
 
 - worditout
 http://worditout.com/
 
 - tagul
-tagul.com/
+http://tagul.com/
 
 - 图悦
-picdata.cn/
+http://picdata.cn/
 
 
