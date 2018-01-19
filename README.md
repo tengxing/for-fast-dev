@@ -71,7 +71,11 @@ https://github.com/WordPress/WordPress
 ## 词云工具
 - wordle
 wordle.net/
+
 - worditout
 http://worditout.com/
+
+- tagul
+tagul.com/
 
 
