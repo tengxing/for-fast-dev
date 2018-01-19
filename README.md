@@ -68,4 +68,8 @@ https://github.com/hexojs/hexo
 - WordPress
 https://github.com/WordPress/WordPress
 
+## 词云工具
+- wordle
+wordle.net/
+
 
