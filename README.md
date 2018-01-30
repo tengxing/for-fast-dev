@@ -20,9 +20,12 @@ http://www.zi-han.net/theme/hplus/
 - EasyUI
 http://www.jeasyui.net/
 
-## markDown开发
+## 幻灯片流浪器
 - remark
 https://github.com/gnab/remark
+
+## markDown开发
+
 -  Editor.md 
 https://pandao.github.io/editor.md/
 
