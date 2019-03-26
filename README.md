@@ -7,6 +7,12 @@ https://github.com/apache/shiro
 - spring security
 https://github.com/spring-projects/spring-security
 
+## redis可视化工具
+- RedisView
+https://github.com/cc20110101/RedisView/releases
+- PyRedisAdmin
+https://github.com/JoneXiong/PyRedisAdmin
+
 ## 后台UI
 - layUI
 http://www.layui.com/demo/
