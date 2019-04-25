@@ -1,6 +1,16 @@
 # xteng
 好用的工具
 
+## （仿饿了么）
+- 前端项目地址
+https://github.com/bailicangdu/vue2-elm
+- 后台系统地址
+https://github.com/bailicangdu/node-elm
+- node-elm 的管理系统
+https://github.com/bailicangdu/vue2-manage
+- 原生APP项目
+https://github.com/bailicangdu/RN-elm
+
 ## java权限框架
 - shiro
 https://github.com/apache/shiro
