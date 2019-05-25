@@ -68,6 +68,12 @@ http://www.hcharts.cn/
 https://github.com/jacomyal/sigma.js
 - threeJS(3D)
 https://threejs.org/
+- c3
+https://c3js.org/
+- recharts
+http://recharts.org
+- nvd3
+http://nvd3.org/
 
 ## 数据分析
 - Superset
