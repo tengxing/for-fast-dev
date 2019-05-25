@@ -36,6 +36,15 @@ http://www.zi-han.net/theme/hplus/
 - EasyUI
 http://www.jeasyui.net/
 
+- vue-element-admin
+https://github.com/PanJiaChen/vue-element-admin
+
+- AdminLTE
+https://github.com/ColorlibHQ/AdminLTE
+
+- iview
+https://github.com/iview/iview
+
 ## 幻灯片流浪器
 - remark
 https://github.com/gnab/remark
