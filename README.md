@@ -45,6 +45,9 @@ https://github.com/ColorlibHQ/AdminLTE
 - iview
 https://github.com/iview/iview
 
+- DataVisualization
+https://.github.io/DataVisualization/#/dashboard
+
 ## 幻灯片流浪器
 - remark
 https://github.com/gnab/remark
