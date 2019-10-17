@@ -1,5 +1,5 @@
-# xteng
-好用的工具
+# for-fast-dev
+快速开发工具
 
 ## 文档
 - showdoc
