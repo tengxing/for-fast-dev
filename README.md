@@ -1,6 +1,11 @@
 # for-fast-dev
 快速开发工具
 
+## 服务器监控
+- Zabbix
+https://www.zabbix.com/download?zabbix=4.4&os_distribution=red_hat_enterprise_linux&os_version=7&db=postgresql
+- grafana-zabbix
+https://github.com/alexanderzobnin/grafana-zabbix
 ## 文档
 - showdoc
 https://github.com/star7th/showdoc
